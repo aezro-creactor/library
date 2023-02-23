@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "libraryManagement/1.0.0": {
+        "dependencies": {
+          "Guna.UI2": "2.0.4.4"
+        },
+        "runtime": {
+          "libraryManagement.dll": {}
+        }
+      },
+      "Guna.UI2/2.0.4.4": {
+        "runtime": {
+          "Guna.UI2.dll": {
+            "assemblyVersion": "2.0.4.4",
+            "fileVersion": "2.0.4.4"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "libraryManagement/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Guna.UI2/2.0.4.4": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
